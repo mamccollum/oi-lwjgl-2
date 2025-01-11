@@ -6,7 +6,6 @@
 /bin
 /dist
 /doc/javadoc
-/libs
 /src/generated
 /src/native/generated
 /src/native/common/Debug
