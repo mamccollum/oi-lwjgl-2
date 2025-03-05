@@ -19,6 +19,7 @@ OpenIndiana.org IPS FMRIs used to build this:
  - (... And probably a few I forgot ...)
 
 Build process (replace the JDK path with your own):
+ - export JAVA_HOME="/usr/jdk/openjdk1.8.0/bin"
  - export PATH="/usr/jdk/openjdk1.8.0/bin:$PATH"
  - ant generate-all
  - ant compile
